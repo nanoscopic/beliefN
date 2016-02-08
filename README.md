@@ -4,6 +4,7 @@ Set of modern beliefs
 * * *
 
 Current:
+
 1. Don't hurt people
 2. Information is free ( no copyright or patent )
 3. All people should have basic food shelter and clothing
